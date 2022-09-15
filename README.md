@@ -1,0 +1,1 @@
+The model attempts to detect Target Corporation logo together along with its label using CNN.
